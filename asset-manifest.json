@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.902ca70f.css",
+    "main.js": "/static/js/main.52ad7cfc.js",
+    "static/js/498.5fda5450.chunk.js": "/static/js/498.5fda5450.chunk.js",
+    "static/js/703.f8693e7a.chunk.js": "/static/js/703.f8693e7a.chunk.js",
+    "static/js/513.b35cd2f3.chunk.js": "/static/js/513.b35cd2f3.chunk.js",
+    "static/js/787.9b32f8d1.chunk.js": "/static/js/787.9b32f8d1.chunk.js",
+    "static/media/Cyber Tech Background.mp4": "/static/media/Cyber Tech Background.0aef50b46b891039be42.mp4",
+    "static/media/Floating Plexus Background.mp4": "/static/media/Floating Plexus Background.936e25e2e43e3b171c5e.mp4",
+    "static/media/Gold Particle Background.mp4": "/static/media/Gold Particle Background.cd02725838fe06257530.mp4",
+    "static/media/Golden Light Background.mp4": "/static/media/Golden Light Background.24c625b7a8ea4991f8a5.mp4",
+    "static/media/Gold Abstract Background.mp4": "/static/media/Gold Abstract Background.66ac521dfde5661321d9.mp4",
+    "static/media/Logo-Dar-Mima-Black.png": "/static/media/Logo-Dar-Mima-Black.fca358d5a16676bda01a.png",
+    "static/media/Logo-Dar-Mima.png": "/static/media/Logo-Dar-Mima.e606d11f44f936781068.png",
+    "static/media/Logo-Technology-By-Smashicons.png": "/static/media/Logo-Technology-By-Smashicons.9d82e172be8789139aa8.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.902ca70f.css.map": "/static/css/main.902ca70f.css.map",
+    "main.52ad7cfc.js.map": "/static/js/main.52ad7cfc.js.map",
+    "498.5fda5450.chunk.js.map": "/static/js/498.5fda5450.chunk.js.map",
+    "703.f8693e7a.chunk.js.map": "/static/js/703.f8693e7a.chunk.js.map",
+    "513.b35cd2f3.chunk.js.map": "/static/js/513.b35cd2f3.chunk.js.map",
+    "787.9b32f8d1.chunk.js.map": "/static/js/787.9b32f8d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.902ca70f.css",
+    "static/js/main.52ad7cfc.js"
+  ]
+}
